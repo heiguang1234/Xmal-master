@@ -1,0 +1,3 @@
+'utf-8' codec can't decode byte 0xa7 in position 2428: invalid start byte				157_API.txt
+'utf-8' codec can't decode byte 0xa7 in position 136: invalid start byte				541_API.txt
+'utf-8' codec can't decode byte 0xb0 in position 37: invalid start byte				._7_API.txt
